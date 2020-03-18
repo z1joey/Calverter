@@ -1,3 +1,4 @@
+![Artboard](https://user-images.githubusercontent.com/28642840/76949972-51d7a100-6944-11ea-9da9-e04d51f14335.png)
 # Introduction
 Calverter is a tool to convert calories into anything, for example, calories can be converted into how many cans of coke or how far you need to run in order to cost the energy.
 
